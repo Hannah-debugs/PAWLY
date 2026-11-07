@@ -1,0 +1,13 @@
+body{background:#fbf6ee;color:#28392d}
+.logo{font-size:28px;font-weight:800;color:#28392d}
+.nav-link{color:#28392d}
+.nav-link.active{color:#c77c4b;font-weight:bold}
+footer{background:#28392d;color:white}
+h1,h2,h3{font-weight:700}
+h3{font-size:21px}
+.card{border:0;border-radius:18px;overflow:hidden}
+.card img{width:100%;height:200px;object-fit:cover}
+.side{background:#d8e2cd}
+form label{width:100%;font-weight:500}
+input:focus,select:focus{border-color:#729379}
+input:invalid:not(:placeholder-shown){border-color:#c78364}
